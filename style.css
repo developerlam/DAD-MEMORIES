@@ -1,6 +1,6 @@
 body{
     background-image: url("background.gif");
-    height: 100vh;
+    background-repeat: repeat-y;
 }
 #slider {
    margin: 0 auto;
